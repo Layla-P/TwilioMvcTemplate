@@ -1,0 +1,13 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Layla Porter",
+    "classifications": [ "Twilio", "MVC" ],
+    "identity": "TwilioMvcTemplate.CSharp",
+    "name": "Twilio MVC Template for ASP.NET Core 2.1",
+    "shortName": "twiliomvc",
+    "sourceName": "TwilioMvcTemplate",
+    "preferNameDirectory" : true,
+    "tags": {
+        "language": "C#"
+      }
+}

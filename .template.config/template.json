@@ -3,7 +3,7 @@
     "author": "Layla Porter",
     "classifications": [ "Twilio", "MVC" ],
     "identity": "TwilioMvcTemplate.CSharp",
-    "name": "Twilio MVC Template for ASP.NET Core 2.1",
+    "name": "Twilio MVC Template for ASP.NET Core 2.2",
     "shortName": "twiliomvc",
     "sourceName": "TwilioMvcTemplate",
     "preferNameDirectory" : true,
